@@ -17,7 +17,9 @@ Publications
 
 * **R. Sasso**, M. Sabatelli, Marco Wiering. \
 *"Multi-Source Transfer Learning for Deep Model-Based Reinforcement Learning"*\
-**Transactions on Machine Learning Research(TMLR)**, 2023. \
+**Transactions on Machine Learning Research (TMLR)**, 2023. \
+[<i class="fa-solid fa-page"></i>](https://arxiv.org/pdf/2205.14410.pdf)
+[<img src="file-solid.svg" width="50" height="50">](https://arxiv.org/pdf/2205.14410.pdf)
 [[paper](https://arxiv.org/pdf/2205.14410.pdf), [code](https://github.com/remosasso/multi-source-TL-for-deep-MBRL)]
 
 Professional Experience
