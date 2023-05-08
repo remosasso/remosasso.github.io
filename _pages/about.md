@@ -13,11 +13,11 @@ Publications
 * **R. Sasso**, M. Conserva, P. Rauber. \
 *"Posterior Sampling for Deep Reinforcement Learning"*\
 **International Conference on Machine Learning (ICML)**, 2023.\
-[<img src="../images/file-solid.svg" width="20" height="20">](https://arxiv.org/pdf/2305.00477.pdf)&nbsp;&nbsp;&nbsp;[<img src="../images/github.svg" width="20" height="20">](https://github.com/remosasso/PSDRL)
+[<img src="../images/file-solid.svg" width="17" height="17">](https://arxiv.org/pdf/2305.00477.pdf)&nbsp;&nbsp;&nbsp;[<img src="../images/github.svg" width="20" height="20">](https://github.com/remosasso/PSDRL)
 * **R. Sasso**, M. Sabatelli, Marco Wiering. \
 *"Multi-Source Transfer Learning for Deep Model-Based Reinforcement Learning"*\
 **Transactions on Machine Learning Research (TMLR)**, 2023. \
-[<img src="../images/file-solid.svg" width="20" height="20">](https://arxiv.org/pdf/2205.14410.pdf)&nbsp;&nbsp;&nbsp;[<img src="../images/github.svg" width="20" height="20">](https://github.com/remosasso/multi-source-TL-for-deep-MBRL)
+[<img src="../images/file-solid.svg" width="17" height="17">](https://arxiv.org/pdf/2205.14410.pdf)&nbsp;&nbsp;&nbsp;[<img src="../images/github.svg" width="20" height="20">](https://github.com/remosasso/multi-source-TL-for-deep-MBRL)
 
 Professional Experience
 ------
