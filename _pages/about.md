@@ -8,7 +8,7 @@ redirect_from:
 
 I'm a PhD student at Queen Mary University of London under the supervision of [Paulo Rauber](https://www.paulorauber.com/).  My research aims to develop principled reinforcement learning algorithms that are both scalable and sample efficient. This research is specifically centered around Bayesian (and) model-based reinforcement learning algorithm. I also work as a research scientist at [xDNA](https://xdna.nl/) with a focus on both Natural Language Processing and Computer Vision. 
 
-[<img src="../images/file-solid.svg" width="19" height="19"> Curriculum Vitae](../files/CV.pdf) 
+[<img src="../images/file-solid.svg" width="19" height="19">](../files/CV.pdf) [Curriculum Vitae](../files/CV.pdf)
 
 
 Publications
