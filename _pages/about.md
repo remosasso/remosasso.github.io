@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Queen Mary University of London under the supervision of [Paulo Rauber](https://www.paulorauber.com/).  My research aims to develop principled reinforcement learning algorithms that are both scalable and sample efficient. This research is specifically centered around Bayesian (and) model-based reinforcement learning algorithm. 
+I'm a PhD student at Queen Mary University of London under the supervision of [Paulo Rauber](https://www.paulorauber.com/).  My research aims to develop principled reinforcement learning algorithms that are both scalable and sample efficient. This research is specifically centered around Bayesian (and) model-based reinforcement learning algorithm. I also work as a research scientist at [xDNA](https://xdna.nl/) with a focus on both Natural Language Processing and Computer Vision. 
 
 Publications
 ------
@@ -16,14 +16,22 @@ Publications
 [<img src="../images/file-solid.svg" width="17" height="17">](https://arxiv.org/pdf/2305.00477.pdf)&nbsp;&nbsp;&nbsp;[<img src="../images/github.svg" width="20" height="20">](https://github.com/remosasso/PSDRL)
 * **R. Sasso**, M. Sabatelli, Marco Wiering. \
 *"Multi-Source Transfer Learning for Deep Model-Based Reinforcement Learning"*\
-**Transactions on Machine Learning Research (TMLR)**, 2023. \
+Transactions on Machine Learning Research (TMLR), 2023. \
 [<img src="../images/file-solid.svg" width="17" height="17">](https://arxiv.org/pdf/2205.14410.pdf)&nbsp;&nbsp;&nbsp;[<img src="../images/github.svg" width="20" height="20">](https://github.com/remosasso/multi-source-TL-for-deep-MBRL)
+
+CV
+Education
+------
+* Ph.D. in Artificial Intelligence, Queen Mary University of London, UK.
+* MSc in Artificial Intelligence, University of Groningen, NL.
+* BSc in Artificial Intelligence, University of Groningen, NL.
 
 Professional Experience
 ------
-
-
-Education
-------
-
+* Research scientist at [xDNA](https://xdna.nl/).
+* Teaching Assistant at University of Groningen:
+  * Reinforcement Learning Practical
+  * Imperative Programming in C
+  * Object Oriented Programming in Java
+  * Algorithms and Datastructures in C
 
