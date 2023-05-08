@@ -10,12 +10,12 @@ I'm a PhD student at Queen Mary University of London under the supervision of [P
 
 Publications
 ------
-* **R. Sasso**, M. Conserva, P. Rauber. 
-*"Posterior Sampling for Deep Reinforcement Learning"*
+* **R. Sasso**, M. Conserva, P. Rauber. \
+*"Posterior Sampling for Deep Reinforcement Learning"*\
 **International Conference on Machine Learning (ICML)**, 2023.
 
-* **R. Sasso**, M. Sabatelli, Marco Wiering. 
-*"Multi-Source Transfer Learning for Deep Model-Based Reinforcement Learning"*
+* **R. Sasso**, M. Sabatelli, Marco Wiering. \
+*"Multi-Source Transfer Learning for Deep Model-Based Reinforcement Learning"*\
 **Transactions on Machine Learning Research(TMLR)**, 2023.
 
 Professional Experience
