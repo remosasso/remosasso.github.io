@@ -1,1 +1,4 @@
-_data/navigation.yml
+# main links links
+main:
+  - title: "Projects"
+    url: /projects/
