@@ -12,11 +12,13 @@ Publications
 ------
 * **R. Sasso**, M. Conserva, P. Rauber. \
 *"Posterior Sampling for Deep Reinforcement Learning"*\
-**International Conference on Machine Learning (ICML)**, 2023.
+**International Conference on Machine Learning (ICML)**, 2023.\
+[[paper](https://arxiv.org/pdf/2305.00477.pdf), [code](https://github.com/remosasso/PSDRL)]
 
 * **R. Sasso**, M. Sabatelli, Marco Wiering. \
 *"Multi-Source Transfer Learning for Deep Model-Based Reinforcement Learning"*\
-**Transactions on Machine Learning Research(TMLR)**, 2023.
+**Transactions on Machine Learning Research(TMLR)**, 2023. \
+[[paper](https://arxiv.org/pdf/2205.14410.pdf), [code](https://github.com/remosasso/multi-source-TL-for-deep-MBRL)]
 
 Professional Experience
 ------
