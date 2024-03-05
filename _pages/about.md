@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Queen Mary University of London under the supervision of [Paulo Rauber](https://www.paulorauber.com/). My research focuses on developing reinforcement learning algorithms that are both scalable and sample-efficient, with a particular emphasis on Bayesian and model-based approaches. In addition to my academic work, I am also an AI Consultant (Ad Hoc) at [xDNA](https://xdna.nl/), where I lead projects on Natural Language Processing (involving LLMs) and Computer Vision. 
+I'm a PhD student at Queen Mary University of London under the supervision of [Paulo Rauber](https://www.paulorauber.com/). My research focuses on developing reinforcement learning algorithms that are both scalable and sample-efficient, with a particular emphasis on Bayesian and model-based approaches. In addition to my academic work, I am also an AI Consultant (Ad Hoc) at [xDNA](https://xdna.nl/), where I worked on several individual projects involving language models and image processing.
 
 [<img src="../images/file-solid.svg" width="17" height="17">](../files/CV.pdf) &nbsp;[Curriculum Vitae](../files/CV.pdf)
 
