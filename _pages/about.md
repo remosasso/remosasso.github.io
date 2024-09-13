@@ -11,7 +11,7 @@ I'm a PhD student at Queen Mary University of London under the supervision of [P
 [<img src="../images/file-solid.svg" width="17" height="17">](../files/CV.pdf) &nbsp;[Curriculum Vitae](../files/CV.pdf)
 
 
-### Publications
+### Selected Publications
 * **R. Sasso**, M. Conserva, P. Rauber. \
 *"Posterior Sampling for Deep Reinforcement Learning"*\
 International Conference on Machine Learning (ICML), 2023.\
