@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Queen Mary University of London under the supervision of [Paulo Rauber](https://www.paulorauber.com/). My research focuses on developing reinforcement learning algorithms that are both scalable and sample-efficient, with a particular emphasis on Large Language Models, Bayesian methods, and model-based approaches. In addition to my academic work, I have also been working as an AI Developer at [xDNA](https://xdna.nl/), innovating tools using Generative AI that optimize the workflow of professional fact-checkers [Project Aletheia](https://gulbenkian.pt/emifund/projects/aletheia/).
+I'm a PhD student at Queen Mary University of London under the supervision of [Paulo Rauber](https://www.paulorauber.com/). My research focuses on developing reinforcement learning algorithms that are both scalable and sample-efficient, with a particular emphasis on Large Language Models, Vision Language Models, Bayesian methods, and model-based approaches. In addition to my academic work, I have also been working as an AI Developer at [xDNA](https://xdna.nl/), innovating tools using Generative AI that optimize the workflow of professional fact-checkers [Project Aletheia](https://gulbenkian.pt/emifund/projects/aletheia/).
 
 [<img src="../images/file-solid.svg" width="17" height="17">](../files/CV.pdf) &nbsp;[Curriculum Vitae](../files/CV.pdf)
 
