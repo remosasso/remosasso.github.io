@@ -1,16 +1,11 @@
 .profile-home {
-  max-width: 940px;
+  max-width: 920px;
   margin: 0 auto;
-  padding: 2rem 0 4rem;
-  color: #171717;
-
-  p {
-    color: #333333;
-    line-height: 1.65;
-  }
+  padding: 2.2rem 0 4rem;
+  color: #151515;
 
   a {
-    color: #175f68;
+    color: #0b6b5d;
     text-decoration: none;
 
     &:hover {
@@ -19,135 +14,199 @@
   }
 }
 
-.profile-intro {
+.agent-panel {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 210px;
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 300px);
+  gap: 1.4rem;
+  align-items: stretch;
+  margin-bottom: 2.2rem;
+}
+
+.agent-id,
+.agent-status,
+.console-block {
+  border: 1px solid #151515;
+  background: #fbfaf5;
+  box-shadow: 6px 6px 0 #151515;
+}
+
+.agent-id {
+  display: flex;
   align-items: center;
-  gap: 3.5rem;
-  margin-bottom: 3.5rem;
+  gap: 1.1rem;
+  padding: 1rem;
+
+  img {
+    width: 76px;
+    height: 76px;
+    border: 1px solid #151515;
+    object-fit: cover;
+    object-position: 52% 30%;
+    filter: grayscale(100%) contrast(1.08);
+  }
 }
 
-.profile-intro h1 {
-  margin: 0 0 1.1rem;
+.eyebrow,
+.prompt,
+.agent-status span,
+.log-entry span,
+.year {
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 0;
+}
+
+.eyebrow {
+  margin: 0 0 0.35rem;
+  color: #0b6b5d;
+  font-size: 0.78rem;
+}
+
+.agent-id h1 {
+  margin: 0;
   color: #111111;
-  font-size: 3.1rem;
-  font-weight: 800;
-  line-height: 1;
+  font-size: 2.7rem;
+  line-height: 0.95;
 }
 
-.profile-intro p {
-  max-width: 680px;
-  margin: 0 0 0.85rem;
-  font-size: 1.02rem;
+.role {
+  margin: 0.55rem 0 0;
+  color: #333333;
+  font-size: 0.98rem;
 }
 
-.keyword-line {
-  margin-top: 1.2rem !important;
+.agent-status {
+  display: grid;
+  align-content: center;
+  padding: 1rem;
 
-  code {
-    padding: 0;
-    background: transparent;
+  p {
+    display: grid;
+    grid-template-columns: 7.5rem minmax(0, 1fr);
+    gap: 0.75rem;
+    margin: 0.15rem 0;
     color: #222222;
-    font-size: 0.92rem;
+    font-size: 0.9rem;
   }
 
   span {
-    color: #175f68;
+    color: #777777;
+    font-size: 0.78rem;
   }
+}
+
+.console-block {
+  margin-bottom: 2.8rem;
+  padding: 1.1rem 1.25rem;
+
+  p {
+    max-width: 760px;
+    margin: 0 0 0.9rem;
+    color: #2f2f2f;
+    line-height: 1.65;
+  }
+}
+
+.prompt {
+  color: #0b6b5d !important;
+  font-size: 0.88rem;
 }
 
 .profile-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.35rem 1rem;
-  margin-top: 1.3rem;
-  font-size: 0.95rem;
-  font-weight: 700;
-}
-
-.profile-photo {
-  position: relative;
-  margin: 0;
-
-  &::after {
-    position: absolute;
-    right: -18px;
-    bottom: -18px;
-    z-index: -1;
-    width: 92px;
-    height: 92px;
-    border-radius: 50%;
-    background: #e7f1ed;
-    content: "";
-  }
-
-  img {
-    display: block;
-    width: 100%;
-    aspect-ratio: 1 / 1.18;
-    border-radius: 6px;
-    object-fit: cover;
-    object-position: 52% 30%;
-  }
+  gap: 0.5rem 1rem;
+  font-weight: 800;
 }
 
 .profile-section {
-  margin: 0 0 3.1rem;
+  margin: 0 0 2.7rem;
 }
 
 .profile-section h2 {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
   margin: 0 0 1rem;
   color: #111111;
-  font-size: 1.35rem;
-  font-weight: 800;
+  font-size: 1.15rem;
+  font-weight: 900;
+
+  &::before {
+    width: 0.65rem;
+    height: 0.65rem;
+    border: 1px solid #151515;
+    background: #b8e1d7;
+    box-shadow: 2px 2px 0 #151515;
+    content: "";
+  }
 }
 
-.profile-section h3 {
-  margin: 1.4rem 0 0.7rem;
-  color: #175f68;
-  font-size: 1.02rem;
+.signal-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin: 0 0 0.6rem;
+    color: #303030;
+    line-height: 1.55;
+  }
 }
 
 .section-note {
-  margin: -0.2rem 0 1.4rem;
-  color: #555555 !important;
-  font-size: 0.95rem;
-}
-
-.experience-entry,
-.pub-entry,
-.system-entry {
-  margin: 0 0 1.35rem;
-}
-
-.experience-role,
-.system-title,
-.pub-title {
-  color: #171717;
-}
-
-.experience-org,
-.pub-venue,
-.pub-authors {
+  margin: -0.2rem 0 1.25rem;
   color: #555555;
-  font-size: 0.93rem;
+  font-size: 0.92rem;
 }
 
-.pub-venue {
+.pub-entry {
+  display: grid;
+  grid-template-columns: 4.25rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 0.85rem 0;
+  border-top: 1px solid #dedbd1;
+
+  p {
+    margin: 0.25rem 0 0;
+    color: #555555;
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+}
+
+.year {
+  color: #0b6b5d;
+  font-size: 0.82rem;
   font-weight: 800;
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
 }
 
-.experience-entry p,
-.system-entry p {
-  margin: 0.35rem 0 0;
-  max-width: 740px;
-  font-size: 0.96rem;
+.log-entry {
+  display: grid;
+  grid-template-columns: 5.3rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 0.45rem 0;
+  color: #303030;
+  line-height: 1.55;
+
+  span {
+    color: #777777;
+    font-size: 0.8rem;
+  }
 }
 
-.year-group {
-  margin-bottom: 1.7rem;
+.system-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+
+  p {
+    margin: 0;
+    padding-top: 0.85rem;
+    border-top: 1px solid #151515;
+    color: #303030;
+    font-size: 0.93rem;
+    line-height: 1.55;
+  }
 }
 
 @media (max-width: 760px) {
@@ -155,17 +214,19 @@
     padding-top: 1rem;
   }
 
-  .profile-intro {
+  .agent-panel,
+  .pub-entry,
+  .log-entry,
+  .system-grid {
     grid-template-columns: 1fr;
-    gap: 1.7rem;
-    margin-bottom: 3rem;
   }
 
-  .profile-photo {
-    width: 210px;
+  .agent-id h1 {
+    font-size: 2.25rem;
   }
 
-  .profile-intro h1 {
-    font-size: 2.45rem;
+  .agent-status p {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
   }
 }
