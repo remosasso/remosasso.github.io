@@ -30,15 +30,6 @@ redirect_from:
     </nav>
   </section>
 
-  <section class="profile-section" aria-labelledby="focus">
-    <h2 id="focus">Focus</h2>
-    <ul class="signal-list">
-      <li><strong>Exploration:</strong> sample-efficient decision-making under uncertainty.</li>
-      <li><strong>World models:</strong> learned dynamics, planning, and foundation-model priors.</li>
-      <li><strong>Systems:</strong> research code that survives contact with real experiments.</li>
-    </ul>
-  </section>
-
   <section class="profile-section" aria-labelledby="selected-publications">
     <h2 id="selected-publications">Selected Publications</h2>
     <p class="section-note">Full list on <a href="https://scholar.google.com/citations?user=KBt4nqgAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>.</p>
