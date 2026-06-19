@@ -9,11 +9,11 @@ redirect_from:
 <main class="profile-home">
   <section class="profile-hero" aria-labelledby="profile-title">
     <div class="profile-hero__content">
-      <p class="profile-kicker">Reinforcement Learning, Foundation Models, and Scalable AI Systems</p>
+      <p class="profile-kicker">Applied Scientist II at Amazon</p>
       <h1 id="profile-title">Remo Sasso</h1>
-      <p class="profile-subtitle">Research Scientist in Reinforcement Learning and Foundation Models</p>
+      <p class="profile-subtitle">Reinforcement Learning, Foundation Models, and Scalable AI Systems</p>
       <p class="profile-location">United Kingdom</p>
-      <p class="profile-lede">I work on reinforcement learning, foundation models, and scalable machine learning systems. My research focuses on sample-efficient exploration, model-based RL, posterior sampling, and the use of foundation models as world models and decision-making priors. I am currently an Applied Scientist II at Amazon and completed my PhD in Artificial Intelligence at Queen Mary University of London.</p>
+      <p class="profile-lede">I am an applied scientist and RL researcher working on sample-efficient exploration, model-based reinforcement learning, posterior sampling, and foundation models as world models or decision-making priors. I completed my PhD in Artificial Intelligence at Queen Mary University of London, supervised by Paulo Rauber.</p>
       <div class="profile-actions" aria-label="Profile links">
         <a class="profile-button profile-button--primary" href="/files/CV.pdf">CV PDF</a>
         <a class="profile-button" href="mailto:r.sasso@qmul.ac.uk">Email</a>
@@ -21,22 +21,16 @@ redirect_from:
         <a class="profile-button" href="https://github.com/remosasso" target="_blank" rel="noopener">GitHub</a>
       </div>
       <div class="profile-tags" aria-label="Research areas">
-        <span>RL</span>
         <span>Exploration</span>
         <span>Model-Based RL</span>
-        <span>Foundation Models</span>
-        <span>LLMs</span>
         <span>World Models</span>
+        <span>LLMs and VLMs</span>
+        <span>Scalable ML Systems</span>
       </div>
     </div>
     <figure class="profile-portrait">
       <img src="/images/edmo_image.jpg" alt="Remo Sasso presenting research at a conference">
     </figure>
-  </section>
-
-  <section class="profile-section" aria-labelledby="profile-summary">
-    <h2 id="profile-summary">Profile</h2>
-    <p>I am an applied scientist and RL researcher interested in agents that learn, explore, and improve through interaction. My work combines research depth with implementation-heavy systems building, from deep RL research codebases to deployed ML products and automated data platforms.</p>
   </section>
 
   <section class="profile-section" aria-labelledby="research-interests">
@@ -47,7 +41,6 @@ redirect_from:
       <span>Deep model-based RL</span>
       <span>Foundation models as world models</span>
       <span>LLMs and VLMs for decision-making</span>
-      <span>Agentic systems and tool use</span>
       <span>Evaluation, ablations, and empirical ML methodology</span>
       <span>Recommender systems and personalization</span>
     </div>
@@ -84,26 +77,21 @@ redirect_from:
   </section>
 
   <section class="profile-section" aria-labelledby="selected-projects">
-    <h2 id="selected-projects">Selected Projects</h2>
+    <h2 id="selected-projects">Selected Systems</h2>
     <div class="card-grid">
       <article class="profile-card">
-        <h3>Posterior Sampling for Deep Reinforcement Learning</h3>
-        <p>Built a full deep RL research system combining latent world models, uncertainty estimation, posterior sampling, and value-function-based planning. The work resulted in an ICML 2023 publication and open-source implementation.</p>
-      </article>
-
-      <article class="profile-card">
         <h3>Foundation Models for Decision-Making</h3>
-        <p>Studied the strengths and limitations of LLMs and VLMs as exploratory agents, decision-making priors, and world models in bandits, GridWorlds, and visual RL settings.</p>
+        <p>Built experimental environments and evaluation code to study LLMs and VLMs as exploratory agents, decision-making priors, and world models.</p>
       </article>
 
       <article class="profile-card">
         <h3>Aletheia</h3>
-        <p>Led development of an agentic LLM-based information retrieval and fact-checking platform developed in collaboration with Thomson Reuters, supporting source grounding, multilingual claim analysis, evidence synthesis, and structured report generation.</p>
+        <p>Led development of an agentic LLM-based information retrieval and fact-checking platform for grounded evidence synthesis and structured report generation.</p>
       </article>
 
       <article class="profile-card">
         <h3>AIGoalie</h3>
-        <p>Built and operate a data-driven football forecasting platform using predictive models, automated data pipelines, and large-scale fixture data. The platform has reached over 15,000 monthly users.</p>
+        <p>Built and operate a data-driven football forecasting platform with predictive models, automated pipelines, and large-scale fixture data.</p>
       </article>
     </div>
   </section>
