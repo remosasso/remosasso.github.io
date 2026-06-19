@@ -1,12 +1,8 @@
 # main links
 main:
-  - title: "Research"
-    url: /#research-interests
   - title: "Publications"
     url: /#selected-publications
   - title: "Systems"
-    url: /#selected-projects
-  - title: "Experience"
-    url: /#experience
+    url: /#selected-systems
   - title: "CV"
     url: /files/CV.pdf
