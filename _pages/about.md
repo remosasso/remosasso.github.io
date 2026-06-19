@@ -46,7 +46,7 @@ redirect_from:
       <span class="year">2025</span>
       <div>
         <strong>Exploration with Foundation Models: Capabilities, Limitations, and Hybrid Approaches</strong>
-        <p>NeurIPS · Sasso, Conserva, Jeurissen, Rauber</p>
+        <p>NeurIPS 2025 FoRLM Workshop · Sasso, Conserva, Jeurissen, Rauber · <a href="https://arxiv.org/abs/2509.19924" target="_blank" rel="noopener">Paper</a></p>
       </div>
     </div>
 
