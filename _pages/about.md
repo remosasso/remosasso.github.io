@@ -43,6 +43,14 @@ redirect_from:
     </div>
 
     <div class="pub-entry">
+      <span class="year">2025</span>
+      <div>
+        <strong>Exploration with Foundation Models: Capabilities, Limitations, and Hybrid Approaches</strong>
+        <p>NeurIPS · Sasso, Conserva, Jeurissen, Rauber</p>
+      </div>
+    </div>
+
+    <div class="pub-entry">
       <span class="year">2023</span>
       <div>
         <strong>Posterior Sampling for Deep Reinforcement Learning</strong>
