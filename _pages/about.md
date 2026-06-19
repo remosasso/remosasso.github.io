@@ -11,16 +11,9 @@ redirect_from:
     <div class="agent-id">
       <img src="/images/edmo_image.jpg" alt="Remo Sasso presenting research at a conference">
       <div>
-        <p class="eyebrow">agent card</p>
         <h1 id="profile-title">Remo Sasso</h1>
         <p class="role">Applied Scientist II at Amazon · RL researcher</p>
       </div>
-    </div>
-
-    <div class="agent-status" aria-label="Research status">
-      <p><span>status</span> learning useful world models</p>
-      <p><span>location</span> United Kingdom</p>
-      <p><span>reward hacking</span> disabled, mostly</p>
     </div>
   </section>
 
@@ -81,12 +74,4 @@ redirect_from:
     <div class="log-entry"><span>2021-25</span> PhD Researcher, Queen Mary University of London. RL, exploration, model-based RL, posterior sampling, and foundation-model priors.</div>
   </section>
 
-  <section class="profile-section" aria-labelledby="selected-systems">
-    <h2 id="selected-systems">Selected Systems</h2>
-    <div class="system-grid">
-      <p><strong>Foundation Models for Decision-Making</strong><br>Evaluation environments for LLMs and VLMs as exploratory agents and world models.</p>
-      <p><strong>Aletheia</strong><br>Grounded evidence synthesis and structured report generation.</p>
-      <p><strong>AIGoalie</strong><br>Football forecasting with predictive models, automated pipelines, and fixture data.</p>
-    </div>
-  </section>
 </main>
