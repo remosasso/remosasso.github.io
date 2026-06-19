@@ -9,12 +9,14 @@ redirect_from:
 <main class="profile-home">
   <section class="agent-panel" aria-labelledby="profile-title">
     <div class="agent-id">
-      <img src="/images/edmo_image.jpg" alt="Remo Sasso presenting research at a conference">
       <div>
         <h1 id="profile-title">Remo Sasso</h1>
         <p class="role">Applied Scientist II at Amazon · RL researcher</p>
       </div>
     </div>
+    <figure class="profile-photo">
+      <img src="/images/edmo_image.jpg" alt="Remo Sasso presenting research at a conference">
+    </figure>
   </section>
 
   <section class="console-block" aria-label="Summary">
