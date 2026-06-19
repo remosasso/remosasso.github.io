@@ -1,4 +1,12 @@
-# main links links
-# main:
-#   - title: "Projects"
-#     url: /projects/
+# main links
+main:
+  - title: "Research"
+    url: /#research-interests
+  - title: "Publications"
+    url: /#selected-publications
+  - title: "Projects"
+    url: /#selected-projects
+  - title: "Experience"
+    url: /#experience
+  - title: "CV"
+    url: /files/CV.pdf

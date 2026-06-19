@@ -10,7 +10,8 @@ locale                   : "en-US"
 title                    : "Remo Sasso"
 title_separator          : "-"
 name                     : &name "Remo Sasso"
-description              : &description "Ph.D. candidate at Queen Mary University of London, United Kingdom."
+masthead_title           : "RS"
+description              : &description "Applied Scientist II at Amazon and reinforcement learning researcher working on foundation models, exploration, model-based RL, and scalable AI systems."
 url                      : https://remosasso.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "remosasso/remosasso.github.io"
@@ -82,7 +83,7 @@ analytics:
 author:
   name             : "Remo Sasso"
   avatar           : "edmo_image.jpg"
-  bio              : "Ph.D. candidate at Queen Mary University of London."
+  bio              : "Applied Scientist II at Amazon. RL and foundation models researcher."
   location         : "United Kingdom"
   employer         :
   pubmed           : 
